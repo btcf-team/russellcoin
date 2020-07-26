@@ -26,7 +26,7 @@ const std::string CLIENT_NAME("Russell Linux");
 #endif
 #endif
 #endif
-
+ 
 /**
  * Client version number
  */
